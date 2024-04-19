@@ -1,0 +1,57 @@
+{
+    "treinos": [
+      {
+        "id": 1,
+        "tipo": "masculino",
+        "exercicios": [
+          {
+            "nome": "Supino",
+            "repeticoes": 10,
+            "series": 3
+          },
+          {
+            "nome": "Agachamento",
+            "repeticoes": 12,
+            "series": 3
+          },
+          {
+            "nome": "Barra fixa",
+            "repeticoes": 8,
+            "series": 4
+          },
+          {
+            "nome": "Rosca direta",
+            "repeticoes": 10,
+            "series": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "tipo": "feminino",
+        "exercicios": [
+          {
+            "nome": "Flexão de pernas",
+            "repeticoes": 12,
+            "series": 3
+          },
+          {
+            "nome": "Agachamento sumô",
+            "repeticoes": 15,
+            "series": 3
+          },
+          {
+            "nome": "Elevação lateral",
+            "repeticoes": 12,
+            "series": 3
+          },
+          {
+            "nome": "Abdominal",
+            "repeticoes": 15,
+            "series": 3
+          }
+        ]
+      }
+    ]
+  }
+  
